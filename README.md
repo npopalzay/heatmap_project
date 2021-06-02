@@ -1,1 +1,1 @@
-# heatmap_project
+# Heatmap sample project
